@@ -1,0 +1,2 @@
+path/to/large/file filter=lfs diff=lfs merge=lfs -text
+C:/Users/Administrator/Desktop/web/my-electron-app/out filter=lfs diff=lfs merge=lfs -text
